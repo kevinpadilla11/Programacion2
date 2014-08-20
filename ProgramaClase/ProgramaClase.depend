@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406760975 source:c:\users\kevin\desktop\progradesistemas\programaclase\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

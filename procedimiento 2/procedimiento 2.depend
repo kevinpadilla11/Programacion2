@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408074061 source:c:\users\kevin\desktop\progradesistemas\procedimiento 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+

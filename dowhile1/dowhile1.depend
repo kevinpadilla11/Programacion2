@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407730279 source:c:\users\kevin\desktop\progradesistemas\dowhile1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
