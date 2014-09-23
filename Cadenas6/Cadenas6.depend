@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410475611 source:c:\users\kevin\desktop\progradesistemas\cadenas6\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
